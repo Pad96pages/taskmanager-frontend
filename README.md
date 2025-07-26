@@ -25,7 +25,7 @@ This is the frontend of the Task Manager web application built using **React**. 
 ```bash
 git clone https://github.com/your-username/taskmanager-frontend.git
 cd taskmanager-frontend
-
+```
 ### 2. Install dependencies
 
 npm install
