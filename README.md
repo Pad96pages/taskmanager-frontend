@@ -34,9 +34,9 @@ npm install
 
 npm start
 
-Make sure the Django backend is running at:
+
+-> Make sure the Django backend is running at:
 http://127.0.0.1:8000/api/
 
-Backend Repository
-You can find the backend code here:
-https://github.com/Pad96pages/taskmanager-backend
+
+->Backend Repository: https://github.com/Pad96pages/taskmanager-backend  (You can find the backend code here)
